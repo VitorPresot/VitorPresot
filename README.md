@@ -39,7 +39,6 @@
 
 ## 📫 Contato
 - LinkedIn: [Vitor Presot](https://www.linkedin.com/in/vitor-presot-243378353/)  
-- Email: vitorpresot4@gmail.com
 
 ---
 
