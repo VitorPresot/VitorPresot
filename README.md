@@ -1,8 +1,8 @@
 # Olá 👋 — Eu sou o Vitor Presot
 
-🇧🇷 Tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Gosto de trabalhar com desenvolvimento web, especialmente com PHP (Laravel) e TypeScript (Angular).  
+🇧🇷 Tenho 18 anos, estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por programação, jogos, animes e mangás — sempre explorando o universo da tecnologia.
 
-🇺🇸 I'm 18 and studying Systems Analysis and Development. Interested in web development, mainly PHP (Laravel) and TypeScript (Angular).
+🇺🇸 I'm 18, studying Systems Analysis and Development. Passionate about coding, games, anime & manga — constantly learning more about computers.
 
 ---
 
@@ -16,7 +16,6 @@
 
 ## 💼 Perfil
 **Desenvolvedor Full-Stack Júnior — Aberto a estágios e oportunidades**
-**Junior Full-Stack Developer — Open to internships & opportunities**
 
 ---
 
@@ -31,12 +30,12 @@
 ## ✨ Projetos em destaque
 
 ### 🚗 Sistema CRUD — Loja de Carros
-- Repositório: https://github.com/VitorPresot/laravel-main/tree/lista-diogoLaravel  
+- Repositório: [laravel-main — lista-diogoLaravel](https://github.com/VitorPresot/laravel-main/tree/lista-diogoLaravel)  
 - Sistema CRUD completo para gerenciamento de uma loja de carros.  
 - **Stack:** PHP, Laravel, MySQL, Blade
 
 ### 👥 Mini Rede Social — Angular + API Laravel
-- Repositório: https://github.com/VitorPresot/ProjetoAngularFirebase/tree/4bim  
+- Repositório: [ProjetoAngularFirebase — 4bim](https://github.com/VitorPresot/ProjetoAngularFirebase/tree/4bim)  
 - Front-end em Angular consumindo uma API REST desenvolvida em Laravel.  
 - *Observação:* comportamento intermitente no carregamento da foto de perfil (em análise).  
 - **Stack:** TypeScript, Angular · PHP, Laravel (API)
@@ -44,7 +43,7 @@
 ---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/vitor-presot-243378353/  
+- LinkedIn: [Vitor Presot](https://www.linkedin.com/in/vitor-presot-243378353/)  
 - Email: vitorpresot4@gmail.com
 
 ---
