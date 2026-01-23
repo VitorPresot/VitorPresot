@@ -6,14 +6,6 @@
 
 ---
 
-## 📚 Formação
-- Técnico em Desenvolvimento de Sistemas  
-- Análise e Desenvolvimento de Sistemas (em andamento)
-
-*(Technical Diploma in Systems Development · Currently pursuing Systems Analysis and Development)*
-
----
-
 ## 🛠️ Principais habilidades
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) **PHP & Laravel (APIs, CRUDs)**  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) **TypeScript & Angular**  
