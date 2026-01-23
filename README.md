@@ -14,11 +14,6 @@
 
 ---
 
-## 💼 Perfil
-**Desenvolvedor Full-Stack Júnior — Aberto a estágios e oportunidades**
-
----
-
 ## 🛠️ Principais habilidades
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) **PHP & Laravel (APIs, CRUDs)**  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) **TypeScript & Angular**  
