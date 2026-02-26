@@ -1,4 +1,4 @@
-# Olá 👋 — Eu sou o Vitor Presot
+# Olá, Eu sou o Vitor Presot
 
 🇧🇷 Tenho 18 anos, estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por programação, jogos, animes e mangás — sempre explorando o universo da tecnologia.
 
