@@ -14,25 +14,6 @@
 
 ---
 
-## ✨ Projetos em destaque
-
-### 🚗 Sistema CRUD — Loja de Carros
-- Repositório: [laravel-main — lista-diogoLaravel](https://github.com/VitorPresot/laravel-main/tree/lista-diogoLaravel)  
-- Sistema CRUD completo para gerenciamento de uma loja de carros.  
-- **Stack:** PHP, Laravel, MySQL, Blade
-
-### 👥 Mini Rede Social — Angular + API Laravel
-- Repositório: [ProjetoAngularFirebase — 4bim](https://github.com/VitorPresot/ProjetoAngularFirebase/tree/4bim)  
-- Front-end em Angular consumindo uma API REST desenvolvida em Laravel.  
-- *Observação:* comportamento intermitente no carregamento da foto de perfil (em análise).  
-- **Stack:** TypeScript, Angular · PHP, Laravel (API)
-
----
-
 ## 📫 Contato
 - LinkedIn: [Vitor Presot](https://www.linkedin.com/in/vitor-presot-243378353/)  
 
----
-
-## 🌐 Idiomas
-Português (Nativo) · English (Intermediate) · Español (Intermediário)
