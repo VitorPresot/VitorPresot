@@ -1,6 +1,6 @@
 # Olá, Eu sou o Vitor Presot
 
-🇧🇷 Tenho 18 anos, estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por programação, jogos, animes e mangás — sempre explorando o universo da tecnologia.
+🇧🇷 Tenho 18 anos, estudante de Análise e Desenvolvimento de Sistemas. Gosto muito de programação, jogos, animes e mangás — sempre explorando o universo da tecnologia.
 
 🇺🇸 I'm 18, studying Systems Analysis and Development. Passionate about coding, games, anime & manga — constantly learning more about computers.
 
